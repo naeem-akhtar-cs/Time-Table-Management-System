@@ -45,4 +45,4 @@ This function will generate a .txt file in the same directory containing all the
 You can generte an .exe file by running the C++ code on any platform but remeber you must provide Registration Data and Timetable file in the sme diretory for the sucessfull execution.
 
 
-If there is any issues feel free to contact me at naeem.akhtar.cs@gmail.com. Thanks
+Thanks
